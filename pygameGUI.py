@@ -3,7 +3,7 @@ import time
 pygame.font.init()
 
 class __Grid:
-
+    #edit the board however you like
     board = [
     [3, " ", 6, 5, " ", 8, 4, " ", " "],
     [5, 2, " ", " ", " ", " ", " ", " ", " "],
